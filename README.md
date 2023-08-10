@@ -41,6 +41,7 @@ Here's a walkthrough of implemented required features:
 ## Notes
 
 Describe any challenges encountered while building the app or any additional context you'd like to add.
+_Working with Supabase was the most challenging._
 
 ## License
 
